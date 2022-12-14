@@ -7,6 +7,5 @@ public class EmployeeInfo {
         System.out.println("26548135");
         System.out.println("Customer Service Representative");
         System.out.println("850 €");
-
     }
 }
