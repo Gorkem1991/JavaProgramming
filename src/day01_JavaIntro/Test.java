@@ -12,7 +12,6 @@ public class Test {
         String reversedaName = ReturnMethodIntro.reverse(name);
         System.out.println(reversedaName);
 
-
         String str = "Wooden Spoon";
         StringUtility.printEachChar(str);
 
@@ -30,6 +29,5 @@ public class Test {
 
         String myString1 = "aaaabbbbbccc";
         System.out.println(StringUtility.removeDuplicates(myString1));
-
     }
 }
