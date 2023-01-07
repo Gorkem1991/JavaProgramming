@@ -6,7 +6,6 @@ public class Birthday {
         int birthDay = 25;
         String birthMonth = "April";
         int birthYear = 1995;
-
         System.out.println("John was born on "+ birthMonth +"/"+birthDay+"/"+birthYear);
     }
 }

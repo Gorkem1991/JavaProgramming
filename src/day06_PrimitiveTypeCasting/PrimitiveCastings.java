@@ -25,6 +25,5 @@ public class PrimitiveCastings {
         String star2str = Character.toString(star2);
 
         System.out.println(starstr+star2str);
-
     }
 }
